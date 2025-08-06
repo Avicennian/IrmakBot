@@ -1,5 +1,5 @@
 # requirements.txt
-python-telegram-bot
+python-telegram-bot[job-queue]
 google-generativeai
 python-dotenv
 Flask
